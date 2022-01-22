@@ -1,0 +1,16 @@
+html{
+  background-colour: #cccccc;}
+
+blockquote:green{
+  border-left: 3px solid #11a717; 
+  color: #0fde17; 
+  margin-bottom: 2px; 
+  padding-left: 8px;
+}
+
+blockquote:blue{
+  border-left: 3px solid #006ccd; 
+  color: #22beff; 
+  margin-bottom: 2px; 
+  padding-left: 8px;
+}
