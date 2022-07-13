@@ -1,17 +1,18 @@
+/* https://coolors.co/363636-ddfc74-c9c5cb-0081a7 */
 body{
-  background-color: #383839;
+  background-color: #363636;
 }
 
 .green{
   border-left: 3px solid #11a717; 
-  color: #0fde17; 
+  color: #DDFC74;
   margin-bottom: 2px; 
   padding-left: 8px;
 }
 
 .blue{
   border-left: 3px solid #006ccd; 
-  color: #22beff; 
+  color: #0081A7; 
   margin-bottom: 2px; 
   padding-left: 8px;
 }
